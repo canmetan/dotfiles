@@ -1,9 +1,9 @@
 # dotfiles
-Dot files for i3wm with zsh.
+Dot files for i3wm with zsh. At the time of this upload, system looks like this (colors are not accurate):
 
-![Current]()
+![Current](https://github.com/canmetan/dotfiles/blob/master/gifs/sc.gif?raw=true)
 
-![Lock]()
+![Lock](https://github.com/canmetan/dotfiles/blob/master/gifs/lock.gif?raw=true)
 
 Attractions:
 

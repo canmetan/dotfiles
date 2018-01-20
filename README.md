@@ -1,5 +1,5 @@
 # dotfiles
-Dot files for i3wm with zsh. At the time of this upload, system looks like this (colors are not accurate):
+Configuration files for i3wm with zsh. At the time of this upload, system looks like this (colors are not accurate):
 
 ![Current](https://github.com/canmetan/dotfiles/blob/master/gifs/sc.gif?raw=true)
 
@@ -7,7 +7,7 @@ Lock screen:
 
 ![Lock](https://github.com/canmetan/dotfiles/blob/master/gifs/lock.gif?raw=true)
 
-Attractions:
+Touristic Attractions:
 
 - Switches background picture every 5 minutes under a given folder.
 - Keyboard shortcuts for launching applications, segregated into workspaces according to their functionality.

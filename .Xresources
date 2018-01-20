@@ -1,0 +1,89 @@
+
+
+! ===================== GENERAL =====================
+! Remember the last 5000 lines
+urxvt.saveLines: 5000
+!URxvt.letterSpace: 1
+URxvt*depth: 32
+
+urxvt*foreground: white
+urxvt*background: black
+
+*color0:  #2E3436
+*color1:  #a40000
+*color2:  #4E9A06
+*color3:  #C4A000
+*color4:  #3465A4
+*color5:  #75507B
+*color6:  #ce5c00
+*color7:  #babdb9
+*color8:  #555753
+*color9:  #EF2929
+*color10: #8AE234
+*color11: #FCE94F
+*color12: #729FCF
+*color13: #AD7FA8
+*color14: #fcaf3e
+*color15: #EEEEEC
+
+
+!urxvt*cursorColor: #EEEE00
+urxvt*transparent: true
+urxvt*shading: 40
+
+! ===================== FONTS ======================
+URxvt.boldFont: xft:monospace:bold:size=10, xft:TerminusTTF Nerd Font Mono:bold:size=10
+URxvt.italicfont: xft:monospace:italic:size=10,  xft:TerminusTTF Nerd Font Mono:italic:size=10
+URxvt.font: xft:monospace:size=10, xft:TerminusTTF Nerd Font Mono:size=10
+
+!URxvt.font: xft:Font Awesome:size=10
+!URxvt.boldfont:xft:Monospace-Bold:size=10
+
+!FontAwesome Regular 10
+
+! Optimum DPI can be found here http://dpi.lv/
+!Xft.dpi:        118
+!Xft.antialias:  true
+!Xft.rgba:       rgb
+!Xft.hinting:    true
+!Xft.hintstyle:  hintslight
+!Xft.autohint:   false
+!Xft.lcdfilter:  lcddefault
+
+
+! ===================== SCROLLING =====================
+!
+! These two doesnt seem to be doing anything
+URxvt.secondaryScreen: false
+URxvt.secondaryScroll: false
+
+!rxvt plain next xterm
+URxvt.scrollBar: true
+URxvt.scrollBar_right: true
+URxvt.scrollBar_floating: true
+urxvt.scrollBar_align: center
+URxvt.scrollstyle: plain
+urxvt.scrollColor: #303030
+URxvt.thickness: 10
+
+! For smooth scrolling
+urxvt.jumpscroll: false
+urxvt.skipscroll: false
+
+! Turn the autoscroll off when scrolled up.
+urxvt.scrollTtyOutput:false
+! scroll in relation to buffer (with mouse scroll or Shift+Page Up)
+URxvt*scrollWithBuffer: true
+! scroll back to the bottom on keypress
+URxvt*scrollTtyKeypress: true
+
+! ===================== EXTENSIONS =====================
+URxvt.perl-lib: ~/.config/urxvtPerl
+URxvt.perl-ext-common: default,selection-to-clipboard,tabbed
+
+! matcher extension
+!URxvt.url-launcher: /usr/bin/xdg-open
+!URxvt.matcher.button: 1
+!URxvt.matcher.rend.0: Uline Bold fg5
+
+

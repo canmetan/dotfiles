@@ -46,3 +46,11 @@ Desktop configuration used:
 1. Multimedia (cmus, vlc etc.)
 
 If you're going to use keyboard shortcuts for launching applications, make sure to modify the lines on the bottom of the ".config" file.
+
+Modified keyboard shortcuts:
+- Super + Right Alt = Closes applications
+- Super + F         = Full screen
+- Super + Shift + X = Screen lock
+- Super + Return    = Terminal
+
+And many others for launching applications (see ".config" for details)

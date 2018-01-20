@@ -3,6 +3,8 @@ Dot files for i3wm with zsh. At the time of this upload, system looks like this 
 
 ![Current](https://github.com/canmetan/dotfiles/blob/master/gifs/sc.gif?raw=true)
 
+Lock screen:
+
 ![Lock](https://github.com/canmetan/dotfiles/blob/master/gifs/lock.gif?raw=true)
 
 Attractions:

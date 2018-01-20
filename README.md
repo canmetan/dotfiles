@@ -1,5 +1,5 @@
 # dotfiles
-Configuration files for i3wm with zsh. At the time of this upload, system looks like this (colors are not accurate):
+Configuration files for i3wm with zsh. At the time of this upload, resulting system looks like this (colors are not accurate):
 
 ![Current](https://github.com/canmetan/dotfiles/blob/master/gifs/sc.gif?raw=true)
 
@@ -9,7 +9,7 @@ Lock screen:
 
 Touristic Attractions:
 
-- Switches background picture every 5 minutes under a given folder.
+- Switches the desktop background every 5 minutes under a given folder.
 - Keyboard shortcuts for launching applications, segregated into workspaces according to their functionality.
 - Smooth window transitions and opacity settings.
 - No window decorations or title bars. Titles are displayed on the top bar with a yellow text.
@@ -25,6 +25,7 @@ Required software (might be misisng a few):
 - xbacklight for adjusting screen backlight on the fly
 - PulseAudio for volume control
 - lm-sensors (for displaying CPU temp)
+- feh (for changing the background image)
 
 Please let me know if I've missed anything.
 Terminal used in the screenshot 
@@ -53,4 +54,4 @@ Modified keyboard shortcuts:
 - Super + Shift + X = Screen lock
 - Super + Return    = Terminal
 
-And many others for launching applications (see ".config" for details)
+And many others (see ".config" file for details)

@@ -1,7 +1,7 @@
 # dotfiles
 Configuration files for i3wm with zsh. At the time of this upload, resulting system looks like this (colors are not accurate):
 
-![Current](https://github.com/canmetan/dotfiles/blob/master/gifs/sc.gif?raw=true)
+![Current](https://github.com/canmetan/dotfiles/blob/master/gifs/screencast.gif?raw=true)
 
 ### Lock screen:
 
